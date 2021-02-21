@@ -1,7 +1,7 @@
 classdef gilded_rose
-   properties
-      items
-   end
+    properties
+        items
+    end
     
     methods
         
